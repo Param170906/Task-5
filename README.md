@@ -109,6 +109,14 @@ Visuals included in the report:
 
 ---
 
+## 🤝 Author
+
+**Parampreet Singh Ahluwalia**  
+Elevate Labs Internship – Data Task  
+[LinkedIn Profile](https://www.linkedin.com/in/parampreet-singh-ahluwalia-0704582b1/)
+
+---
+
 ## 🙌 Acknowledgements
 
 Thanks to Kaggle for the open dataset and the internship mentors for this learning opportunity.
